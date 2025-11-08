@@ -1,12 +1,12 @@
-# 🛍️ Consumer Behavior and Shopping Habits Dashboard
+# Consumer Behavior and Shopping Habits Dashboard
 
-### 📊 Project Overview
+### Project Overview
 The **Consumer Behavior and Shopping Habits Dashboard** provides a comprehensive view of customer demographics, purchase behavior, and spending trends across various categories, seasons, and locations.  
 It helps stakeholders understand which products and customer segments drive the most revenue and how consumer preferences vary by demographic and season.
 
 ---
 
-### 🎯 Key Performance Indicators (KPIs)
+### Key Performance Indicators (KPIs)
 | Metric | Description |
 |---------|--------------|
 | **Total Customers** | 3.9K unique customers |
@@ -16,7 +16,7 @@ It helps stakeholders understand which products and customer segments drive the 
 
 ---
 
-### 📈 Dashboard Highlights
+### Dashboard Highlights
 1. **Category by Spending**
    - Clothing leads spending with **~104K USD**, followed by Accessories and Footwear.
    - Indicates strong consumer preference for apparel-related products.
@@ -50,7 +50,7 @@ It helps stakeholders understand which products and customer segments drive the 
 
 ---
 
-### 💡 Insights
+### Insights
 - **High-value categories** like Clothing and Accessories drive overall revenue.
 - **Customer age (avg 44 years)** indicates a mature demographic with higher purchasing power.
 - **Male customers** dominate total spending, suggesting targeted campaigns for female engagement could balance sales.
@@ -59,7 +59,7 @@ It helps stakeholders understand which products and customer segments drive the 
 
 ---
 
-### 🔍 Recommendations
+### Recommendations
 1. **Expand Fashion Offerings**
    - Increase product variety in top-performing categories (Clothing & Accessories).
 2. **Seasonal Campaigns**
