@@ -73,4 +73,6 @@ It helps stakeholders understand which products and customer segments drive the 
 6. **Location-Based Marketing**
    - Focus marketing efforts in **Montana, Illinois, and California**, while exploring growth in underperforming states.
 
+<img width="910" height="507" alt="Dashboard" src="https://github.com/user-attachments/assets/1195f2a7-5a00-4b2a-abdc-f52038d772ba" />
+
 ---
