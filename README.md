@@ -1,77 +1,95 @@
 # Consumer Behavior and Shopping Habits Dashboard
 
-### Project Overview
-The **Consumer Behavior and Shopping Habits Dashboard** provides a comprehensive view of customer demographics, purchase behavior, and spending trends across various categories, seasons, and locations.  
-It helps stakeholders understand which products and customer segments drive the most revenue and how consumer preferences vary by demographic and season.
+## Project Overview
+The Consumer Behavior and Shopping Habits Dashboard provides a data-driven view of customer demographics, shopping patterns, and spending trends across product categories, seasons, and locations. The dashboard enables stakeholders to identify high-value customer segments, optimize product strategy, and design targeted marketing campaigns.
+
+This project was developed using **Power BI** for data analysis, and visualization.
 
 ---
 
-### Key Performance Indicators (KPIs)
-| Metric | Description |
-|---------|--------------|
-| **Total Customers** | 3.9K unique customers |
-| **Average Age** | 44.1 years |
-| **Average Review Rating** | 14.6K total ratings |
-| **Average Order Value (AOV)** | $59.8 |
+## Key Performance Indicators (KPIs)
+
+- **Total Customers:** 3.9K unique customers  
+- **Average Age:** 44.1 years  
+- **Total Reviews:** 14.6K  
+- **Average Order Value (AOV):** $59.8  
 
 ---
 
-### Dashboard Highlights
-1. **Category by Spending**
-   - Clothing leads spending with **~104K USD**, followed by Accessories and Footwear.
-   - Indicates strong consumer preference for apparel-related products.
+## Dashboard Highlights
 
-2. **Top 5 Locations by Spending**
-   - **Montana, Illinois, California, Idaho, and Nevada** are the top-performing states.
-   - Suggests regional concentration of high-value customers.
+### Category by Spending
+- Clothing leads spending with approximately **$104K**, followed by Accessories and Footwear.  
+- Indicates a strong consumer preference for apparel-related products.
 
-3. **Seasonal Spending Trends**
-   - **Fall, Spring and Winter** seasons show higher spending activity.
-   - Potential opportunity for seasonal marketing campaigns and product launches.
+### Top 5 Locations by Spending
+- **Montana, Illinois, California, Idaho, and Nevada** generate the highest revenue.
+- Suggests regional concentration of high-value customers.
 
-4. **Top 5 Payment Modes**
-   - **PayPal** and **Credit Card** are most preferred payment options, reflecting customer trust in digital transactions.
+### Seasonal Spending Trends
+- **Fall, Spring, and Winter** display higher spending compared to Summer.
+- Highlights strong potential for seasonal marketing campaigns.
 
-5. **Top 5 Items Purchased**
-   - **Blouse, Shirt, Dress, Pants, and Jewelry** dominate purchase lists.
-   - Women’s fashion contributes heavily to overall sales.
+### Top 5 Payment Modes
+- **PayPal and Credit Card** are the most preferred payment options.
+- Reflects increasing trust in digital transactions.
 
-6. **Discount Applied Status**
-   - Most transactions (**~2,233**) occur *without discounts*.
-   - Suggests low dependency on discounts for conversion.
+### Top 5 Items Purchased
+- **Blouse, Shirt, Dress, Pants, and Jewelry** are the most frequently purchased items.
+- Shows strong dominance of fashion products in total sales.
 
-7. **Spending by Gender**
-   - **Male customers (≈158K)** spend almost twice as much as female customers (≈75K).
-   - Indicates higher spending capacity or purchase frequency among male customers.
+### Discount Applied Status
+- Most transactions (~2,233) occur **without discounts**.
+- Indicates low dependency on discounts for conversions.
 
-8. **Shipping Type Performance**
-   - **Free Shipping and Express** contribute the most to total purchase value.
-   - **Store Pickup** and **Standard** are less common choices, possibly due to cost or convenience factors.
+### Spending by Gender
+- **Male customers:** ≈ $158K  
+- **Female customers:** ≈ $75K  
+- Suggests higher spending capacity or purchase frequency among male customers.
 
----
-
-### Insights
-- **High-value categories** like Clothing and Accessories drive overall revenue.
-- **Customer age (avg 44 years)** indicates a mature demographic with higher purchasing power.
-- **Male customers** dominate total spending, suggesting targeted campaigns for female engagement could balance sales.
-- **Fall season** presents peak opportunity for marketing and promotions.
-- **Digital payments (PayPal, Credit Card)** are most popular, reflecting growing trust in online payment systems.
+### Shipping Type Performance
+- **Free Shipping and Express Shipping** contribute the most to total revenue.
+- **Store Pickup and Standard Shipping** are less commonly used.
 
 ---
 
-### Recommendations
-1. **Expand Fashion Offerings**
-   - Increase product variety in top-performing categories (Clothing & Accessories).
-2. **Seasonal Campaigns**
-   - Run major sales and new arrivals during **Fall, Spring and Winter** to leverage high purchase intent.
-3. **Promote Discounts Strategically**
-   - As most purchases occur without discounts, use limited-time offers to boost sales without heavy markdowns.
-4. **Enhance Shipping Experience**
-   - Optimize **Standard Shipping** and **2-Day options**, and promote **Store Pickup** for local convenience.
-5. **Gender-Based Targeting**
-   - Launch personalized offers to attract more **female buyers**, leveraging insights from top-purchased items.
-6. **Location-Based Marketing**
-   - Focus marketing efforts in **Montana, Illinois, and California**, while exploring growth in underperforming states.
+## Key Insights
+
+- Clothing and Accessories are the top revenue-generating categories.
+- An average customer age of 44.1 years indicates a mature demographic with higher purchasing power.
+- Male customers contribute nearly twice the spending of female customers.
+- The Fall season presents a significant opportunity for driving sales.
+- Digital payment methods dominate, reflecting increased consumer confidence in online transactions.
+
+---
+
+## Business Recommendations
+
+### 1. Expand Fashion and Apparel Offerings
+Increase product variety in Clothing and Accessories to match high customer demand.
+
+### 2. Focus on Seasonal Campaigns
+Prioritize major campaigns and product launches during **Fall, Spring, and Winter**.
+
+### 3. Implement Smart Discount Strategies
+Use targeted, limited-time discounts to boost volume without reducing margins significantly.
+
+### 4. Enhance Shipping Options
+Improve **Standard** and **2-Day Shipping** services and promote **Store Pickup** for local convenience.
+
+### 5. Gender-Based Targeting
+Develop personalized campaigns to attract more female buyers using popular fashion categories.
+
+### 6. Location-Focused Marketing
+Increase marketing investment in **Montana, Illinois, and California**, and explore growth strategies in underperforming states.
+
+---
+
+## Author
+**Shikha** – Entry-Level Data Analyst  
+Skills: SQL | Power BI | Tableaut | Advanced Excel | Data Analysis | Visualization
+
+---
 
 <img width="910" height="507" alt="Dashboard" src="https://github.com/user-attachments/assets/1195f2a7-5a00-4b2a-abdc-f52038d772ba" />
 
