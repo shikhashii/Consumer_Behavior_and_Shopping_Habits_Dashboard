@@ -85,10 +85,6 @@ Increase marketing investment in **Montana, Illinois, and California**, and expl
 
 ---
 
-## Author
-**Shikha** – Entry-Level Data Analyst  
-Skills: SQL | Power BI | Tableaut | Advanced Excel | Data Analysis | Visualization
-
 ---
 
 <img width="910" height="507" alt="Dashboard" src="https://github.com/user-attachments/assets/1195f2a7-5a00-4b2a-abdc-f52038d772ba" />
